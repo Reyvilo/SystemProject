@@ -4,3 +4,6 @@ c:\users\karegan\documents\visual studio 2012\Projects\TestProject\TestProject\b
 c:\users\karegan\documents\visual studio 2012\Projects\TestProject\TestProject\obj\Release\TestProject.exe
 c:\users\karegan\documents\visual studio 2012\Projects\TestProject\TestProject\obj\Release\TestProject.pdb
 C:\Users\Karegan\Documents\Visual Studio 2012\Projects\TestProject\TestProject\obj\Release\TestProject.csprojResolveAssemblyReference.cache
+C:\Users\Karegan\Documents\SystemProject\TestProject\bin\Release\TestProject.exe.config
+C:\Users\Karegan\Documents\SystemProject\TestProject\obj\Release\TestProject.exe
+C:\Users\Karegan\Documents\SystemProject\TestProject\obj\Release\TestProject.pdb
